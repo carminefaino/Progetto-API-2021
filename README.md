@@ -9,4 +9,4 @@ Il seguente codice fa riferimento ad un progetto (in linguaggio C) assegnato in 
 
 
 ### Specifiche del progetto:
-* [Specifiche](https://github.com/CarmineFaino)
+* [Specifiche](https://github.com/carminefaino/Progetto-API-2021/blob/main/deliveries/Specifica.pdf)
