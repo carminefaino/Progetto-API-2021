@@ -4,7 +4,7 @@
 ### Final Score: 30 cum laude
 
 
-Il seguente codice fa riferimento al progetto (in linguaggio C) assegnato in occasione della Prova Finale di "Algoritmi e Strutture Dati", AA 2020/2021
+Il seguente codice fa riferimento al progetto (in Linguaggio C) assegnato in occasione della Prova Finale di "Algoritmi e Strutture Dati", AA 2020/2021
 
 
 
